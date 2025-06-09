@@ -1,0 +1,168 @@
+[2025-06-01 16:44:34] [INFO] Training finished.
+[2025-06-01 16:52:51] [INFO] Training Start
+[2025-06-01 16:53:36] [INFO] Training finished.
+[2025-06-01 16:53:48] [INFO] Training Start
+[2025-06-01 16:53:50] [INFO] Training finished.
+[2025-06-01 16:54:21] [INFO] Training Start
+[2025-06-01 17:00:09] [INFO] New best score: 44, weights saved!
+[2025-06-01 17:00:18] [INFO] Training finished.
+[2025-06-01 17:00:33] [INFO] Training Start
+[2025-06-01 17:00:46] [INFO] Training finished.
+[2025-06-01 17:01:03] [INFO] Training Start
+[2025-06-01 17:02:44] [INFO] Training finished.
+[2025-06-01 17:02:51] [INFO] Training Start
+[2025-06-01 17:03:30] [INFO] Training finished.
+[2025-06-01 17:04:34] [INFO] Training Start
+[2025-06-01 17:26:14] [INFO] New best score: 54, weights saved!
+[2025-06-01 17:35:50] [INFO] New best score: 78, weights saved!
+[2025-06-01 18:01:56] [INFO] Epoch 10: Score=67, Best=78, AvgScore(10)=39.80, AvgSteps(10)=2.40, AvgReward(10)=548.19, AvgLoss(10)=0.7273
+[2025-06-01 18:50:04] [INFO] Epoch 20: Score=41, Best=78, AvgScore(10)=40.00, AvgSteps(10)=2.90, AvgReward(10)=572.38, AvgLoss(10)=0.8822
+[2025-06-01 19:37:16] [INFO] Epoch 30: Score=20, Best=78, AvgScore(10)=39.60, AvgSteps(10)=3.50, AvgReward(10)=549.35, AvgLoss(10)=0.8269
+[2025-06-01 20:21:53] [INFO] Epoch 40: Score=58, Best=78, AvgScore(10)=36.30, AvgSteps(10)=6.60, AvgReward(10)=503.02, AvgLoss(10)=1.1022
+[2025-06-01 20:31:04] [INFO] New best score: 83, weights saved!
+[2025-06-01 21:11:31] [INFO] Epoch 50: Score=26, Best=83, AvgScore(10)=43.00, AvgSteps(10)=0.20, AvgReward(10)=576.03, AvgLoss(10)=0.7986
+[2025-06-01 21:11:31] [INFO] Training statistics saved to training_stats.csv
+[2025-06-01 21:11:31] [INFO] All training curves saved to training_curves.png
+[2025-06-01 21:11:32] [INFO] ROC curve saved to roc_curve.png
+[2025-06-01 21:11:32] [INFO] Training finished.
+[2025-06-02 00:13:33] [INFO] Training Start
+[2025-06-02 00:48:52] [INFO] Epoch 10: Score=37, Best=83, AvgScore(10)=33.10, AvgSteps(10)=0.60, AvgReward(10)=415.79, AvgLoss(10)=0.8720
+[2025-06-02 01:24:45] [INFO] Epoch 20: Score=19, Best=83, AvgScore(10)=27.20, AvgSteps(10)=1.40, AvgReward(10)=375.10, AvgLoss(10)=0.9806
+[2025-06-02 02:13:50] [INFO] New best score: 97, weights saved!
+[2025-06-02 02:13:50] [INFO] Epoch 30: Score=97, Best=97, AvgScore(10)=41.20, AvgSteps(10)=3.50, AvgReward(10)=571.41, AvgLoss(10)=0.9830
+[2025-06-02 02:48:34] [INFO] Epoch 40: Score=23, Best=97, AvgScore(10)=29.10, AvgSteps(10)=1.30, AvgReward(10)=398.12, AvgLoss(10)=1.0133
+[2025-06-02 03:45:33] [INFO] Epoch 50: Score=61, Best=97, AvgScore(10)=43.30, AvgSteps(10)=0.50, AvgReward(10)=631.09, AvgLoss(10)=0.9306
+[2025-06-02 04:21:46] [INFO] Epoch 60: Score=8, Best=97, AvgScore(10)=31.30, AvgSteps(10)=0.80, AvgReward(10)=420.10, AvgLoss(10)=0.9844
+[2025-06-02 05:06:09] [INFO] Epoch 70: Score=60, Best=97, AvgScore(10)=37.70, AvgSteps(10)=4.90, AvgReward(10)=538.95, AvgLoss(10)=0.9045
+[2025-06-02 05:47:39] [INFO] Epoch 80: Score=15, Best=97, AvgScore(10)=35.70, AvgSteps(10)=3.10, AvgReward(10)=485.66, AvgLoss(10)=0.9883
+[2025-06-02 06:17:35] [INFO] Epoch 90: Score=41, Best=97, AvgScore(10)=29.00, AvgSteps(10)=0.30, AvgReward(10)=360.48, AvgLoss(10)=1.0136
+[2025-06-02 06:57:51] [INFO] Epoch 100: Score=14, Best=97, AvgScore(10)=31.70, AvgSteps(10)=4.00, AvgReward(10)=459.11, AvgLoss(10)=1.1207
+[2025-06-02 07:42:41] [INFO] Epoch 110: Score=16, Best=97, AvgScore(10)=38.30, AvgSteps(10)=4.50, AvgReward(10)=537.41, AvgLoss(10)=1.0896
+[2025-06-02 08:27:04] [INFO] Epoch 120: Score=74, Best=97, AvgScore(10)=35.40, AvgSteps(10)=0.50, AvgReward(10)=484.38, AvgLoss(10)=1.1607
+[2025-06-02 09:01:20] [INFO] Epoch 130: Score=28, Best=97, AvgScore(10)=30.80, AvgSteps(10)=1.90, AvgReward(10)=400.27, AvgLoss(10)=1.0160
+[2025-06-02 09:39:03] [INFO] Epoch 140: Score=13, Best=97, AvgScore(10)=33.50, AvgSteps(10)=0.20, AvgReward(10)=420.18, AvgLoss(10)=1.0827
+[2025-06-02 10:27:29] [INFO] Epoch 150: Score=54, Best=97, AvgScore(10)=42.60, AvgSteps(10)=4.20, AvgReward(10)=557.99, AvgLoss(10)=1.0666
+[2025-06-02 11:15:47] [INFO] Epoch 160: Score=51, Best=97, AvgScore(10)=39.50, AvgSteps(10)=1.40, AvgReward(10)=517.42, AvgLoss(10)=1.0013
+[2025-06-02 12:08:29] [INFO] Epoch 170: Score=79, Best=97, AvgScore(10)=40.80, AvgSteps(10)=2.30, AvgReward(10)=518.85, AvgLoss(10)=0.9310
+[2025-06-02 13:06:44] [INFO] Epoch 180: Score=47, Best=97, AvgScore(10)=38.20, AvgSteps(10)=0.60, AvgReward(10)=547.20, AvgLoss(10)=0.6990
+[2025-06-02 14:03:48] [INFO] Epoch 190: Score=40, Best=97, AvgScore(10)=40.80, AvgSteps(10)=0.20, AvgReward(10)=544.80, AvgLoss(10)=0.7535
+[2025-06-02 14:40:29] [INFO] Epoch 200: Score=9, Best=97, AvgScore(10)=30.10, AvgSteps(10)=0.90, AvgReward(10)=399.94, AvgLoss(10)=0.9097
+[2025-06-02 14:40:30] [INFO] Training statistics saved to training_stats.csv
+[2025-06-02 14:40:31] [INFO] All training curves saved to training_curves.png
+[2025-06-02 14:40:31] [INFO] ROC curve saved to roc_curve.png
+[2025-06-02 14:40:31] [INFO] Training finished.
+[2025-06-03 17:59:24] [INFO] Training Start
+[2025-06-03 18:33:17] [INFO] Epoch 10: Score=13, Best=97, AvgScore(10)=25.60, AvgSteps(10)=1.20, AvgReward(10)=337.49, AvgLoss(10)=0.8530
+[2025-06-03 19:17:43] [INFO] Epoch 20: Score=26, Best=97, AvgScore(10)=34.60, AvgSteps(10)=1.60, AvgReward(10)=448.99, AvgLoss(10)=0.8736
+[2025-06-03 20:07:58] [INFO] Epoch 30: Score=10, Best=97, AvgScore(10)=40.60, AvgSteps(10)=1.20, AvgReward(10)=538.28, AvgLoss(10)=0.8329
+[2025-06-03 20:50:37] [INFO] Epoch 40: Score=63, Best=97, AvgScore(10)=34.30, AvgSteps(10)=1.50, AvgReward(10)=458.63, AvgLoss(10)=0.8329
+[2025-06-03 21:40:46] [INFO] Epoch 50: Score=35, Best=97, AvgScore(10)=39.40, AvgSteps(10)=0.60, AvgReward(10)=524.39, AvgLoss(10)=0.9795
+[2025-06-03 22:23:55] [INFO] Epoch 60: Score=46, Best=97, AvgScore(10)=33.00, AvgSteps(10)=3.30, AvgReward(10)=439.44, AvgLoss(10)=1.0018
+[2025-06-03 23:02:02] [INFO] Epoch 70: Score=10, Best=97, AvgScore(10)=32.30, AvgSteps(10)=1.00, AvgReward(10)=411.61, AvgLoss(10)=0.9747
+[2025-06-03 23:51:21] [INFO] Training finished.
+[2025-06-04 21:36:47] [INFO] Training Start
+[2025-06-04 22:21:40] [INFO] Epoch 10: Score=43, Best=97, AvgScore(10)=32.90, AvgSteps(10)=0.50, AvgReward(10)=420.28, AvgLoss(10)=0.6118
+[2025-06-04 22:54:50] [INFO] Epoch 20: Score=14, Best=97, AvgScore(10)=29.70, AvgSteps(10)=1.60, AvgReward(10)=373.40, AvgLoss(10)=0.9058
+[2025-06-04 23:24:43] [INFO] Epoch 30: Score=7, Best=97, AvgScore(10)=31.20, AvgSteps(10)=0.70, AvgReward(10)=365.43, AvgLoss(10)=1.1442
+[2025-06-05 00:19:42] [INFO] Epoch 40: Score=33, Best=97, AvgScore(10)=40.40, AvgSteps(10)=0.30, AvgReward(10)=599.92, AvgLoss(10)=1.0327
+[2025-06-05 01:01:19] [INFO] Epoch 50: Score=50, Best=97, AvgScore(10)=32.50, AvgSteps(10)=0.60, AvgReward(10)=460.63, AvgLoss(10)=1.0321
+[2025-06-05 01:44:47] [INFO] Epoch 60: Score=56, Best=97, AvgScore(10)=38.50, AvgSteps(10)=1.80, AvgReward(10)=520.41, AvgLoss(10)=1.0010
+[2025-06-05 02:28:40] [INFO] Epoch 70: Score=70, Best=97, AvgScore(10)=38.60, AvgSteps(10)=1.40, AvgReward(10)=510.20, AvgLoss(10)=0.9356
+[2025-06-05 03:19:11] [INFO] Epoch 80: Score=50, Best=97, AvgScore(10)=41.80, AvgSteps(10)=0.50, AvgReward(10)=568.63, AvgLoss(10)=0.8462
+[2025-06-05 03:42:06] [INFO] Epoch 90: Score=27, Best=97, AvgScore(10)=20.00, AvgSteps(10)=0.20, AvgReward(10)=232.60, AvgLoss(10)=1.2913
+[2025-06-05 04:24:58] [INFO] Epoch 100: Score=63, Best=97, AvgScore(10)=39.10, AvgSteps(10)=0.40, AvgReward(10)=517.86, AvgLoss(10)=1.0628
+[2025-06-05 05:04:24] [INFO] Epoch 110: Score=21, Best=97, AvgScore(10)=33.40, AvgSteps(10)=0.30, AvgReward(10)=421.77, AvgLoss(10)=1.2698
+[2025-06-05 05:45:54] [INFO] Epoch 120: Score=68, Best=97, AvgScore(10)=37.10, AvgSteps(10)=1.10, AvgReward(10)=469.09, AvgLoss(10)=1.1415
+[2025-06-05 06:24:12] [INFO] Epoch 130: Score=22, Best=97, AvgScore(10)=34.10, AvgSteps(10)=1.00, AvgReward(10)=435.26, AvgLoss(10)=0.9560
+[2025-06-05 07:12:58] [INFO] Epoch 140: Score=33, Best=97, AvgScore(10)=42.10, AvgSteps(10)=4.90, AvgReward(10)=557.34, AvgLoss(10)=1.0025
+[2025-06-05 07:55:50] [INFO] Epoch 150: Score=62, Best=97, AvgScore(10)=39.80, AvgSteps(10)=1.10, AvgReward(10)=506.93, AvgLoss(10)=1.1514
+[2025-06-05 08:42:57] [INFO] Epoch 160: Score=33, Best=97, AvgScore(10)=38.80, AvgSteps(10)=0.70, AvgReward(10)=539.95, AvgLoss(10)=1.1098
+[2025-06-05 09:32:06] [INFO] Epoch 170: Score=69, Best=97, AvgScore(10)=42.10, AvgSteps(10)=1.80, AvgReward(10)=554.19, AvgLoss(10)=0.9469
+[2025-06-05 10:09:18] [INFO] Epoch 180: Score=13, Best=97, AvgScore(10)=32.10, AvgSteps(10)=0.80, AvgReward(10)=406.56, AvgLoss(10)=0.9101
+[2025-06-05 10:59:02] [INFO] Epoch 190: Score=26, Best=97, AvgScore(10)=37.40, AvgSteps(10)=5.10, AvgReward(10)=495.99, AvgLoss(10)=1.2327
+[2025-06-05 11:53:08] [INFO] Epoch 200: Score=26, Best=97, AvgScore(10)=40.50, AvgSteps(10)=2.90, AvgReward(10)=548.69, AvgLoss(10)=1.1157
+[2025-06-05 12:39:49] [INFO] Epoch 210: Score=15, Best=97, AvgScore(10)=38.90, AvgSteps(10)=4.00, AvgReward(10)=510.14, AvgLoss(10)=1.2315
+[2025-06-05 13:25:06] [INFO] Epoch 220: Score=52, Best=97, AvgScore(10)=40.30, AvgSteps(10)=1.40, AvgReward(10)=515.78, AvgLoss(10)=1.0759
+[2025-06-05 14:17:47] [INFO] Epoch 230: Score=51, Best=97, AvgScore(10)=42.80, AvgSteps(10)=2.70, AvgReward(10)=580.87, AvgLoss(10)=1.1401
+[2025-06-05 14:53:47] [INFO] Epoch 240: Score=13, Best=97, AvgScore(10)=34.30, AvgSteps(10)=3.00, AvgReward(10)=426.38, AvgLoss(10)=1.2223
+[2025-06-05 15:54:50] [INFO] Epoch 250: Score=32, Best=97, AvgScore(10)=46.60, AvgSteps(10)=0.30, AvgReward(10)=631.05, AvgLoss(10)=0.9930
+[2025-06-05 16:35:25] [INFO] Epoch 260: Score=41, Best=97, AvgScore(10)=35.80, AvgSteps(10)=1.40, AvgReward(10)=458.21, AvgLoss(10)=1.0546
+[2025-06-05 17:17:28] [INFO] Epoch 270: Score=66, Best=97, AvgScore(10)=36.30, AvgSteps(10)=0.80, AvgReward(10)=484.66, AvgLoss(10)=1.2167
+[2025-06-05 18:04:58] [INFO] Epoch 280: Score=27, Best=97, AvgScore(10)=40.80, AvgSteps(10)=0.30, AvgReward(10)=538.19, AvgLoss(10)=1.0862
+[2025-06-05 18:52:02] [INFO] Epoch 290: Score=41, Best=97, AvgScore(10)=38.50, AvgSteps(10)=2.00, AvgReward(10)=540.76, AvgLoss(10)=1.2396
+[2025-06-05 19:23:05] [INFO] Epoch 300: Score=40, Best=97, AvgScore(10)=27.40, AvgSteps(10)=3.80, AvgReward(10)=349.63, AvgLoss(10)=1.2247
+[2025-06-05 20:01:32] [INFO] Epoch 310: Score=32, Best=97, AvgScore(10)=30.90, AvgSteps(10)=0.40, AvgReward(10)=422.99, AvgLoss(10)=1.1659
+[2025-06-05 20:44:00] [INFO] Epoch 320: Score=35, Best=97, AvgScore(10)=36.00, AvgSteps(10)=0.40, AvgReward(10)=489.47, AvgLoss(10)=1.1863
+[2025-06-05 21:23:32] [INFO] Epoch 330: Score=52, Best=97, AvgScore(10)=31.80, AvgSteps(10)=1.10, AvgReward(10)=424.99, AvgLoss(10)=1.1484
+[2025-06-05 22:05:28] [INFO] Epoch 340: Score=28, Best=97, AvgScore(10)=30.30, AvgSteps(10)=1.40, AvgReward(10)=394.55, AvgLoss(10)=1.1783
+[2025-06-05 22:47:49] [INFO] Epoch 350: Score=45, Best=97, AvgScore(10)=32.70, AvgSteps(10)=1.70, AvgReward(10)=443.79, AvgLoss(10)=1.0622
+[2025-06-05 23:21:38] [INFO] Epoch 360: Score=9, Best=97, AvgScore(10)=30.80, AvgSteps(10)=6.50, AvgReward(10)=369.50, AvgLoss(10)=1.1461
+[2025-06-06 00:03:15] [INFO] Epoch 370: Score=34, Best=97, AvgScore(10)=34.20, AvgSteps(10)=4.90, AvgReward(10)=455.83, AvgLoss(10)=1.3613
+[2025-06-06 00:53:26] [INFO] Epoch 380: Score=26, Best=97, AvgScore(10)=37.90, AvgSteps(10)=1.60, AvgReward(10)=498.19, AvgLoss(10)=1.0773
+[2025-06-06 01:37:09] [INFO] Epoch 390: Score=30, Best=97, AvgScore(10)=34.10, AvgSteps(10)=1.00, AvgReward(10)=453.56, AvgLoss(10)=1.1703
+[2025-06-06 02:34:25] [INFO] Epoch 400: Score=40, Best=97, AvgScore(10)=39.30, AvgSteps(10)=9.30, AvgReward(10)=578.96, AvgLoss(10)=1.0843
+[2025-06-06 03:14:55] [INFO] Epoch 410: Score=18, Best=97, AvgScore(10)=31.00, AvgSteps(10)=2.20, AvgReward(10)=423.15, AvgLoss(10)=0.9513
+[2025-06-06 03:57:29] [INFO] Epoch 420: Score=9, Best=97, AvgScore(10)=24.40, AvgSteps(10)=1.50, AvgReward(10)=356.74, AvgLoss(10)=0.9932
+[2025-06-06 04:37:39] [INFO] Epoch 430: Score=13, Best=97, AvgScore(10)=28.10, AvgSteps(10)=0.90, AvgReward(10)=358.11, AvgLoss(10)=1.0239
+[2025-06-06 05:34:55] [INFO] Epoch 440: Score=55, Best=97, AvgScore(10)=40.90, AvgSteps(10)=1.60, AvgReward(10)=578.23, AvgLoss(10)=1.1481
+[2025-06-06 06:15:52] [INFO] Epoch 450: Score=52, Best=97, AvgScore(10)=31.30, AvgSteps(10)=2.10, AvgReward(10)=408.83, AvgLoss(10)=1.1211
+[2025-06-06 07:15:34] [INFO] Epoch 460: Score=47, Best=97, AvgScore(10)=40.30, AvgSteps(10)=1.90, AvgReward(10)=576.31, AvgLoss(10)=0.9843
+[2025-06-06 08:08:49] [INFO] Epoch 470: Score=62, Best=97, AvgScore(10)=40.50, AvgSteps(10)=0.50, AvgReward(10)=562.95, AvgLoss(10)=1.0285
+[2025-06-06 08:54:15] [INFO] Epoch 480: Score=36, Best=97, AvgScore(10)=36.00, AvgSteps(10)=2.90, AvgReward(10)=476.09, AvgLoss(10)=1.0470
+[2025-06-06 09:38:18] [INFO] Epoch 490: Score=20, Best=97, AvgScore(10)=35.70, AvgSteps(10)=2.60, AvgReward(10)=465.94, AvgLoss(10)=1.1071
+[2025-06-06 10:19:39] [INFO] Epoch 500: Score=21, Best=97, AvgScore(10)=32.60, AvgSteps(10)=2.70, AvgReward(10)=447.48, AvgLoss(10)=1.2179
+[2025-06-06 11:07:53] [INFO] Epoch 510: Score=16, Best=97, AvgScore(10)=31.60, AvgSteps(10)=0.60, AvgReward(10)=458.18, AvgLoss(10)=1.0860
+[2025-06-06 11:25:02] [INFO] Epoch 520: Score=4, Best=97, AvgScore(10)=15.30, AvgSteps(10)=6.00, AvgReward(10)=150.20, AvgLoss(10)=1.4369
+[2025-06-06 12:05:02] [INFO] Epoch 530: Score=46, Best=97, AvgScore(10)=23.40, AvgSteps(10)=1.60, AvgReward(10)=321.49, AvgLoss(10)=1.7200
+[2025-06-06 12:35:28] [INFO] Epoch 540: Score=37, Best=97, AvgScore(10)=22.40, AvgSteps(10)=1.10, AvgReward(10)=279.01, AvgLoss(10)=1.2970
+[2025-06-06 13:46:39] [INFO] Epoch 550: Score=40, Best=97, AvgScore(10)=49.00, AvgSteps(10)=4.30, AvgReward(10)=686.19, AvgLoss(10)=1.0249
+[2025-06-06 14:31:30] [INFO] Epoch 560: Score=17, Best=97, AvgScore(10)=28.00, AvgSteps(10)=1.80, AvgReward(10)=400.48, AvgLoss(10)=0.8215
+[2025-06-06 15:17:21] [INFO] Epoch 570: Score=23, Best=97, AvgScore(10)=33.90, AvgSteps(10)=1.60, AvgReward(10)=455.77, AvgLoss(10)=1.0941
+[2025-06-06 16:04:07] [INFO] Epoch 580: Score=47, Best=97, AvgScore(10)=32.60, AvgSteps(10)=1.50, AvgReward(10)=456.17, AvgLoss(10)=1.1515
+[2025-06-06 16:49:21] [INFO] Epoch 590: Score=30, Best=97, AvgScore(10)=35.80, AvgSteps(10)=0.50, AvgReward(10)=467.85, AvgLoss(10)=1.1108
+[2025-06-06 17:26:29] [INFO] Epoch 600: Score=27, Best=97, AvgScore(10)=29.20, AvgSteps(10)=1.00, AvgReward(10)=381.11, AvgLoss(10)=1.1717
+[2025-06-06 18:22:32] [INFO] Epoch 610: Score=50, Best=97, AvgScore(10)=39.40, AvgSteps(10)=0.80, AvgReward(10)=551.61, AvgLoss(10)=1.2078
+[2025-06-06 19:19:12] [INFO] Epoch 620: Score=61, Best=97, AvgScore(10)=36.40, AvgSteps(10)=1.70, AvgReward(10)=484.26, AvgLoss(10)=1.1133
+[2025-06-06 20:19:28] [INFO] Epoch 630: Score=25, Best=97, AvgScore(10)=35.90, AvgSteps(10)=3.20, AvgReward(10)=514.09, AvgLoss(10)=1.0099
+[2025-06-06 21:21:18] [INFO] Epoch 640: Score=29, Best=97, AvgScore(10)=28.30, AvgSteps(10)=1.80, AvgReward(10)=379.68, AvgLoss(10)=1.3124
+[2025-06-06 22:54:22] [INFO] Epoch 650: Score=22, Best=97, AvgScore(10)=29.30, AvgSteps(10)=0.80, AvgReward(10)=425.62, AvgLoss(10)=1.4446
+[2025-06-06 23:24:15] [INFO] Epoch 660: Score=43, Best=97, AvgScore(10)=18.00, AvgSteps(10)=5.70, AvgReward(10)=194.13, AvgLoss(10)=0.9098
+[2025-06-06 23:59:47] [INFO] Epoch 670: Score=33, Best=97, AvgScore(10)=25.60, AvgSteps(10)=3.90, AvgReward(10)=299.42, AvgLoss(10)=0.8483
+[2025-06-07 00:44:27] [INFO] Epoch 680: Score=26, Best=97, AvgScore(10)=28.10, AvgSteps(10)=2.70, AvgReward(10)=367.41, AvgLoss(10)=1.0943
+[2025-06-07 01:47:31] [INFO] Epoch 690: Score=9, Best=97, AvgScore(10)=36.00, AvgSteps(10)=3.10, AvgReward(10)=488.99, AvgLoss(10)=0.9579
+[2025-06-07 03:22:40] [INFO] Epoch 700: Score=6, Best=97, AvgScore(10)=13.20, AvgSteps(10)=7.50, AvgReward(10)=205.09, AvgLoss(10)=0.9973
+[2025-06-07 03:56:52] [INFO] Epoch 710: Score=8, Best=97, AvgScore(10)=16.20, AvgSteps(10)=3.30, AvgReward(10)=146.79, AvgLoss(10)=0.4118
+[2025-06-07 04:34:49] [INFO] Epoch 720: Score=29, Best=97, AvgScore(10)=20.30, AvgSteps(10)=3.80, AvgReward(10)=252.81, AvgLoss(10)=0.8699
+[2025-06-07 05:31:09] [INFO] Epoch 730: Score=49, Best=97, AvgScore(10)=31.10, AvgSteps(10)=8.30, AvgReward(10)=419.98, AvgLoss(10)=0.8017
+[2025-06-07 06:23:41] [INFO] Epoch 740: Score=7, Best=97, AvgScore(10)=34.90, AvgSteps(10)=3.00, AvgReward(10)=449.62, AvgLoss(10)=0.8276
+[2025-06-07 07:23:20] [INFO] Epoch 750: Score=23, Best=97, AvgScore(10)=37.30, AvgSteps(10)=1.70, AvgReward(10)=527.95, AvgLoss(10)=1.0232
+[2025-06-07 07:52:32] [INFO] Epoch 760: Score=23, Best=97, AvgScore(10)=21.90, AvgSteps(10)=6.60, AvgReward(10)=259.45, AvgLoss(10)=1.0421
+[2025-06-07 08:42:53] [INFO] Epoch 770: Score=28, Best=97, AvgScore(10)=32.60, AvgSteps(10)=1.10, AvgReward(10)=418.25, AvgLoss(10)=0.8990
+[2025-06-07 09:33:54] [INFO] Epoch 780: Score=41, Best=97, AvgScore(10)=35.10, AvgSteps(10)=3.30, AvgReward(10)=449.36, AvgLoss(10)=0.9178
+[2025-06-07 10:24:08] [INFO] Epoch 790: Score=31, Best=97, AvgScore(10)=34.30, AvgSteps(10)=4.30, AvgReward(10)=458.65, AvgLoss(10)=0.8269
+[2025-06-07 11:21:01] [INFO] Epoch 800: Score=29, Best=97, AvgScore(10)=33.40, AvgSteps(10)=1.90, AvgReward(10)=454.37, AvgLoss(10)=0.8753
+[2025-06-07 12:25:28] [INFO] Epoch 810: Score=58, Best=97, AvgScore(10)=35.30, AvgSteps(10)=1.30, AvgReward(10)=494.35, AvgLoss(10)=0.7263
+[2025-06-07 13:08:14] [INFO] Epoch 820: Score=54, Best=97, AvgScore(10)=29.00, AvgSteps(10)=5.20, AvgReward(10)=361.24, AvgLoss(10)=0.9313
+[2025-06-07 14:38:44] [INFO] Epoch 830: Score=23, Best=97, AvgScore(10)=44.00, AvgSteps(10)=3.30, AvgReward(10)=637.16, AvgLoss(10)=0.8724
+[2025-06-07 15:28:06] [INFO] Epoch 840: Score=47, Best=97, AvgScore(10)=29.20, AvgSteps(10)=4.60, AvgReward(10)=375.35, AvgLoss(10)=0.5993
+[2025-06-07 16:25:49] [INFO] Epoch 850: Score=29, Best=97, AvgScore(10)=24.20, AvgSteps(10)=3.40, AvgReward(10)=345.75, AvgLoss(10)=0.6747
+[2025-06-07 16:56:13] [INFO] Epoch 860: Score=20, Best=97, AvgScore(10)=19.80, AvgSteps(10)=2.20, AvgReward(10)=222.14, AvgLoss(10)=0.7569
+[2025-06-07 17:57:15] [INFO] Epoch 870: Score=3, Best=97, AvgScore(10)=33.50, AvgSteps(10)=4.80, AvgReward(10)=459.25, AvgLoss(10)=0.9340
+[2025-06-07 18:54:19] [INFO] Epoch 880: Score=26, Best=97, AvgScore(10)=27.60, AvgSteps(10)=1.70, AvgReward(10)=380.59, AvgLoss(10)=0.7134
+[2025-06-07 19:46:37] [INFO] Epoch 890: Score=35, Best=97, AvgScore(10)=30.40, AvgSteps(10)=0.60, AvgReward(10)=396.17, AvgLoss(10)=0.8800
+[2025-06-07 20:48:47] [INFO] Epoch 900: Score=34, Best=97, AvgScore(10)=37.50, AvgSteps(10)=1.60, AvgReward(10)=499.66, AvgLoss(10)=0.8975
+[2025-06-07 21:41:57] [INFO] Epoch 910: Score=56, Best=97, AvgScore(10)=33.90, AvgSteps(10)=5.00, AvgReward(10)=444.29, AvgLoss(10)=0.9694
+[2025-06-07 22:36:28] [INFO] Epoch 920: Score=15, Best=97, AvgScore(10)=32.30, AvgSteps(10)=1.00, AvgReward(10)=421.57, AvgLoss(10)=1.0041
+[2025-06-07 23:39:50] [INFO] Epoch 930: Score=18, Best=97, AvgScore(10)=37.80, AvgSteps(10)=3.30, AvgReward(10)=517.07, AvgLoss(10)=0.9164
+[2025-06-08 00:09:47] [INFO] New best score: 98, weights saved!
+[2025-06-08 00:34:45] [INFO] Epoch 940: Score=9, Best=98, AvgScore(10)=32.50, AvgSteps(10)=6.20, AvgReward(10)=420.38, AvgLoss(10)=0.7805
+[2025-06-08 01:18:08] [INFO] Epoch 950: Score=29, Best=98, AvgScore(10)=29.00, AvgSteps(10)=5.20, AvgReward(10)=359.59, AvgLoss(10)=0.9591
+[2025-06-08 02:05:03] [INFO] Epoch 960: Score=24, Best=98, AvgScore(10)=23.50, AvgSteps(10)=3.00, AvgReward(10)=300.33, AvgLoss(10)=0.8332
+[2025-06-08 03:08:51] [INFO] Epoch 970: Score=39, Best=98, AvgScore(10)=31.60, AvgSteps(10)=0.00, AvgReward(10)=462.97, AvgLoss(10)=0.7118
+[2025-06-08 04:19:39] [INFO] Epoch 980: Score=40, Best=98, AvgScore(10)=40.40, AvgSteps(10)=2.20, AvgReward(10)=552.75, AvgLoss(10)=0.7544
+[2025-06-08 05:28:37] [INFO] Epoch 990: Score=32, Best=98, AvgScore(10)=41.30, AvgSteps(10)=1.20, AvgReward(10)=553.78, AvgLoss(10)=0.7310
+[2025-06-08 06:36:08] [INFO] Epoch 1000: Score=53, Best=98, AvgScore(10)=38.00, AvgSteps(10)=7.00, AvgReward(10)=520.68, AvgLoss(10)=0.8721
+[2025-06-08 06:36:09] [INFO] Training statistics saved to training_stats.csv
+[2025-06-08 06:36:17] [INFO] All training curves saved to training_curves.png
+[2025-06-08 06:36:18] [INFO] ROC curve saved to roc_curve.png
+[2025-06-08 06:36:18] [INFO] Training finished.
